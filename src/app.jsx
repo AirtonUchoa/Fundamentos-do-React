@@ -19,7 +19,7 @@ export function App() {
         <FatherComponent/>
         
         <h1>Template Strings:</h1>
-        <h1>{2+2}</h1>
+        <h1>{2+2} no Javascript: (2+2)</h1>
         {/* Template Expressions ^, utilizado entre chaves para execução de javascript de maneira simples no código. Somar, Multiplicar, chamar uma função, etc. */}
         
       </div>
